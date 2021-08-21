@@ -4,7 +4,11 @@ To create a table to organize UFO data that is stored as a JavaScript array, or 
 ### Purpose:
 To customize webpage using Bootstrap, and equip table with several fully functional filters that will allow users to interact with visualizations. 
 ## Results:
+##### The final result is a visually appealing page where each element meshes well with the next.The users can search for ufos by city or state or country or shape.They can narrow down their searches by applying multiple filters.
 ![image1](https://user-images.githubusercontent.com/84524153/130332624-00ca25de-8fe4-4c95-b119-ea21c63aeca5.png)
+##### 
+![image2](https://user-images.githubusercontent.com/84524153/130333701-f79975d8-a3f6-42ef-964e-67a3deb06b32.png)
+##### The users can use the filters to narrow down their search results by applying filters such as what kind of shape of ufo was seen in which city of a state. Here the search result shows the "triangle" shaped ufo was seen in city "el cajon" in state "ca".
 ![image-ca](https://user-images.githubusercontent.com/84524153/130332627-841ddf38-c06b-425c-9560-78e078376419.png)
 
 
