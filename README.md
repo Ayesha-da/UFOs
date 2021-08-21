@@ -4,4 +4,5 @@ To create a table to organize UFO data that is stored as a JavaScript array, or 
 ### Purpose:
 To customize webpage using Bootstrap, and equip table with several fully functional filters that will allow users to interact with visualizations. 
 ## Results: 
+
 ## Summary:
