@@ -7,9 +7,11 @@ To customize webpage using Bootstrap and equip table with several fully function
 ## Results:
 ##### The final result is a visually appealing page where each element meshes well with the next.The users can search for ufos by city or state or country or shape.They can narrow down their searches by applying multiple filters.
 ![image1](https://user-images.githubusercontent.com/84524153/130332624-00ca25de-8fe4-4c95-b119-ea21c63aeca5.png)
-##### Users can do a comprehensive search for example, by state.The result will be all shapes of ufo's seen in different cities of "ny" state.
+##### Comprehensive Search Result:
+###### Users can do a comprehensive search for example, by state.The result will be all shapes of ufo's seen in different cities of "ny" state.
 ![image2](https://user-images.githubusercontent.com/84524153/130333701-f79975d8-a3f6-42ef-964e-67a3deb06b32.png)
-##### Users can apply multiple filters to narrow down their search results by applying filters such as specific shape of ufo in specific city of a state. Here the search result shows the "triangle" shaped ufo was seen in city "el cajon" in state "ca".
+##### Exclusive Search Result:
+###### Users can apply multiple filters to narrow down their search results by applying filters such as specific shape of ufo in specific city of a state. Here the search result shows the "triangle" shaped ufo was seen in city "el cajon" in state "ca".
 ![image-ca](https://user-images.githubusercontent.com/84524153/130332627-841ddf38-c06b-425c-9560-78e078376419.png)
 
 ## Summary:
