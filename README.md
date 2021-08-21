@@ -2,7 +2,7 @@
 ## Overview of Project:
 To create a table to organize UFO data that is stored as a JavaScript array. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
 ### Purpose:
-To customize webpage using Bootstrap, and equip table with several fully functional filters that will allow users to interact with visualizations. 
+To customize webpage using Bootstrap and equip table with several fully functional filters that will allow users to interact with visualizations. 
 
 ## Results:
 ##### The final result is a visually appealing page where each element meshes well with the next.The users can search for ufos by city or state or country or shape.They can narrow down their searches by applying multiple filters.
