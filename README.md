@@ -1,4 +1,7 @@
 # UFOs
+
+visit the app here: https://ayesha-da.github.io/UFOs/
+
 ## Overview of project:
 To create a table to organize UFO data that is storeed as a Javascript array.This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
 ## Purpose:
